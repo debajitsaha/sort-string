@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color:  rgb(53, 139, 53);
+    margin-top: 100px;
+
+}
+#out{
+    padding: 10px;
+    background-color: rgb(22, 181, 230);
+    color: rgb(255, 0, 0);
+    width: auto;
+    height: auto;
+}
